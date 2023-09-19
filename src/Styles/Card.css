@@ -1,0 +1,66 @@
+.card-title {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Josefin Sans", sans-serif;
+}
+.card-style {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.082);
+  border-radius: 10px;
+}
+.detail-text {
+  font-size: 12px;
+  color: #1a18245d;
+  font-weight: 600;
+  font-family: "Josefin Sans", sans-serif !important;
+}
+.price-text {
+  font-size: 12px;
+  color: #1a18245d;
+  font-weight: 600;
+  font-family: "Josefin Sans", sans-serif !important;
+}
+.distance-text {
+  font-size: 12px;
+  color: #1a1824;
+  font-weight: 600;
+  font-family: "Josefin Sans", sans-serif !important;
+}
+.opentime-text {
+  font-size: 12px;
+  color: #1a1824;
+  font-weight: 600;
+  font-family: "Josefin Sans", sans-serif !important;
+}
+
+.shopping-icon {
+  margin-left: 0px;
+  margin-top: -7px;
+}
+.open-text {
+  font-size: 12px;
+  color: #34c47c;
+  font-weight: 600;
+  font-family: "Josefin Sans", sans-serif !important;
+}
+.close-text {
+    font-size: 12px;
+    color: #991313;
+    font-weight: 600;
+    font-family: "Josefin Sans", sans-serif !important;
+  }
+.imagae-style {
+  position: absolute;
+  z-index: -1;
+}
+.point {
+  background-color: #b70014;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px;
+  border-radius: 5px;
+  position: absolute;
+  z-index: 3;
+  margin-top: 10px;
+  margin-left: 10px;
+}
